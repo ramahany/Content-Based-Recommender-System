@@ -1,4 +1,25 @@
-## Movies Recommender System
+<div align="center">
+
+<h1 style="background: linear-gradient(90deg,#a855f7,#7c3aed,#c084fc);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+font-size: 42px;">
+R4M4 Content-Based Recommender System
+</h1>
+
+</div>
+
+<br>
+
+## R4M4 Content-Based Recommender System
+
+<p align="center">
+<img width="45%" src="https://github.com/user-attachments/assets/81abbe5e-4afe-4b39-9c4a-80a7e3237689" />
+<img width="45%" src="https://github.com/user-attachments/assets/51ce1db7-d89c-4ce4-8a86-8de81285e621" />
+</p>
+
+
 
 This project is a **FastAPI-based movies recommender service** that exposes **two recommendation models** behind a single HTTP API:
 
