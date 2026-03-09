@@ -1,0 +1,8 @@
+fastapi==0.135.1
+uvicorn==0.41.0
+pydantic-settings==2.13.1
+pandas==2.3.3
+requests-async==0.2.4
+faiss_cpu==1.13.2
+#for testing 
+locus==2.43.3
