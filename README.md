@@ -8,9 +8,13 @@ font-size: 42px;">
 R4M4 Content-Based Recommender System
 </h1>
 
+<p>
+A movie recommendation system that compares <b>Embedding-based similarity</b> and <b>Bag-of-Words similarity</b> through an interactive web interface.
+</p>
+
 </div>
 
-<br>
+---
 
 ## R4M4 Content-Based Recommender System
 
@@ -18,6 +22,8 @@ R4M4 Content-Based Recommender System
 <img width="45%" src="https://github.com/user-attachments/assets/81abbe5e-4afe-4b39-9c4a-80a7e3237689" />
 <img width="45%" src="https://github.com/user-attachments/assets/51ce1db7-d89c-4ce4-8a86-8de81285e621" />
 </p>
+
+---
 
 
 
