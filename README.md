@@ -4,7 +4,7 @@
 -webkit-background-clip: text;
 color: transparent;
 font-weight: 800;
-font-size: 42px;">R4M4 Content-Based Recommender System</h1>
+font-size: 42px;">r4m4 Content-Based Recommender System</h1>
 
 <p>
 A movie recommendation system that compares <b>Embedding-based similarity</b> and <b>Bag-of-Words similarity</b> through an interactive web interface.
